@@ -2,9 +2,9 @@ package com.mxs.static_;
 
 public class StaticExercise02 {
     public static void main(String[] args) {
-        System.out.println("Number of total is" + Person.getTotalPerson());
+        System.out.println("Number of total is " + Person.getTotalPerson());
         Person person = new Person();
-        System.out.println("Number of total is" + Person.getTotalPerson());
+        System.out.println("Number of total is " + Person.getTotalPerson());
     }
 }
 
